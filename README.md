@@ -4,7 +4,7 @@ This repo holds codes of the paper: ''Vision Enhanced Generative Pre-trained Lan
 
 # Citations
 if you find this is helpful, feel free to cite the following publication:
-
+```
 @article{DBLP:journals/ijautcomp/JingLXYSS23,
   author       = {Liqiang Jing and
                   Yiren Li and
@@ -21,3 +21,4 @@ if you find this is helpful, feel free to cite the following publication:
   year         = {2023},
   doi          = {10.1007/s11633-022-1372-x},
 }
+```
